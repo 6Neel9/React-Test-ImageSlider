@@ -1,0 +1,18 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Open sans, sans-serif;
+  height: 100vh;
+  background: rgba(19, 1, 19, 0.712);
+  overflow: hidden;
+}
+h2{
+  text-align: center;
+  margin: 20px;
+  font-size: 40px;
+  color: #fff;
+}
